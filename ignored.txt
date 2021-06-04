@@ -1,0 +1,1 @@
+Info that I don't want git to track.
